@@ -1,0 +1,23 @@
+*{
+  font-family: monospace;
+}
+
+.conn_success{
+  color: green;
+  font-weight: bolder;
+  font-size: 18px;
+}
+.conn_failed{
+  color: red;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.form-box{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.form-box input{
+  width: 300px;
+}
